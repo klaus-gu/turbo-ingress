@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ingress-api/ingress-api.iml" filepath="$PROJECT_DIR$/ingress-api/ingress-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingress-bootstrap/ingress-bootstrap.iml" filepath="$PROJECT_DIR$/ingress-bootstrap/ingress-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingress-core/ingress-core.iml" filepath="$PROJECT_DIR$/ingress-core/ingress-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingress-plugin/ingress-plugin.iml" filepath="$PROJECT_DIR$/ingress-plugin/ingress-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbo-ingress.iml" filepath="$PROJECT_DIR$/turbo-ingress.iml" />
+    </modules>
+  </component>
+</project>
